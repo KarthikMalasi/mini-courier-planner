@@ -1,0 +1,11 @@
+parcel_id,destination,weight_kg,priority,deadline_days
+P1,B,5,9,1
+P2,C,8,6,3
+P3,D,3,7,2
+P4,E,6,4,5
+P5,F,4,8,1
+P6,G,7,5,4
+P7,B,2,3,6
+P8,H,9,10,2
+P9,D,5,2,7
+P10,E,3,6,3
